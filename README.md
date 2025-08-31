@@ -452,14 +452,4 @@ You can also generate clients with `link --fingerprint <fingerprint here>` to sp
 
 By default, clients will run in the background then the parent process will exit, the child process will be given the parent processes stdout/stderr so you will be able to see output. If you need to debug your client, use the `--foreground` flag.
 
-# Donations, Support, or Giving Back
 
-The easiest way to give back to the RSSH project is by finding bugs, opening feature requests and word-of-mouth advertising it to people you think will find it useful!
-
-However, if you want to give something back to me directly, you can do so either through Kofi or Github Sponsors (under "Sponsor this Project" on the right hand side).
-Or donate to me by sending to the either of the following wallets:
-
-Monero (XMR):
-`8A8TRqsBKpMMabvt5RxMhCFWcuCSZqGV5L849XQndZB4bcbgkenH8KWJUXinYbF6ySGBznLsunrd1WA8YNPiejGp3FFfPND`
-Bitcoin (BTC):
-`bc1qm9e9sfrm7l7tnq982nrm6khnsfdlay07h0dxfr`
